@@ -6,8 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="5eb83ef1-a5a6-49c6-beb8-85f8177abca0" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.vml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter04/src/main/java/me/qorrbs/springbootdeveloper/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter04/src/main/java/me/qorrbs/springbootdeveloper/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter04/src/main/java/me/qorrbs/springbootdeveloper/SpringBootDeveloperApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter04/src/main/java/me/qorrbs/springbootdeveloper/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter04/src/main/java/me/qorrbs/springbootdeveloper/TestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter04/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter04/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter04/src/main/resources/static/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/qorrbs/springbootdeveloper/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/qorrbs/springbootdeveloper/Member.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/qorrbs/springbootdeveloper/SpringBootDeveloperApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/qorrbs/springbootdeveloper/SpringBootDeveloperApplication.java" afterDir="false" />
@@ -72,10 +80,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/qorrbs_web/qorrbs_springboot/chapter04",
-    "project.structure.last.edited": "Project",
+    "last_opened_file_path": "C:/qorrbs_web/qorrbs_springboot/chapter03",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "XML"
+    ]
   }
 }]]></component>
   <component name="RunManager">
