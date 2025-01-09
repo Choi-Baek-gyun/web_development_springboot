@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5eb83ef1-a5a6-49c6-beb8-85f8177abca0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter04/src/main/java/me/qorrbs/springbootdeveloper/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter04/src/main/java/me/qorrbs/springbootdeveloper/MemberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter04/src/main/java/me/qorrbs/springbootdeveloper/SpringBootDeveloperApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter04/src/main/java/me/qorrbs/springbootdeveloper/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter04/src/main/java/me/qorrbs/springbootdeveloper/TestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter04/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter04/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter04/src/main/resources/static/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/qorrbs/springbootdeveloper/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/qorrbs/springbootdeveloper/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/qorrbs/springbootdeveloper/SpringBootDeveloperApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/qorrbs/springbootdeveloper/SpringBootDeveloperApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/qorrbs/springbootdeveloper/TestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/qorrbs/springbootdeveloper/TestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter06/src/test/java/me/qorrbs/springbootdeveloper/controller/BlogApiControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/src/main/java/me/qorrbs/springbootdeveloper/controller/BlogApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter06/src/main/java/me/qorrbs/springbootdeveloper/controller/BlogApiController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,28 +56,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Gradle.chapter03 [:Main.main()].executor": "Run",
-    "Gradle.chapter03 [:SpringBootDeveloperApplication.main()].executor": "Run",
-    "Gradle.chapter04 [:Main.main()].executor": "Run",
-    "Gradle.chapter04 [:SpringBootDeveloperApplication.main()].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/qorrbs_web/qorrbs_springboot/chapter03",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Gradle.chapter03 [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.chapter03 [:SpringBootDeveloperApplication.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.chapter04 [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.chapter04 [:SpringBootDeveloperApplication.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/qorrbs_web/qorrbs_springboot/chapter03&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "XML"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;XML&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="me.qorrbs.Main" />
